@@ -1,5 +1,5 @@
 # Say My Name
-Say My Name is an app for Breaking Bad fans. It offers random quotes, episodes and characters. All characters have their own detail wih additional info.
+Say My Name is an app for Breaking Bad fans. It offers random quotes, episodes and characters. All characters have their own detail with additional info.
 
 ![image_alt](https://github.com/dustom/SayMyName/blob/main/mockuuups-female-hand-holding-iphone-14-pro-mockup.png?raw=true)
 
